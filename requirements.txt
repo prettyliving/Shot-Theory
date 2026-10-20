@@ -1,0 +1,8 @@
+requests
+pandas
+psycopg[binary]
+sqlalchemy
+statsmodels
+scipy
+matplotlib
+jupyter
